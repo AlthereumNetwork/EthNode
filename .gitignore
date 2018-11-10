@@ -48,4 +48,6 @@ profile.cov
 
 /lib/*
 /helpers/*
+!/helpers/pre-defined/
+/helpers/pre-defined/*
 !/helpers/pre-defined/genesis.json
